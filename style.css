@@ -1,0 +1,47 @@
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+.input {
+    text-align: center;
+    margin-top: 3vh;
+    margin-bottom: 4vh;
+}
+
+input {
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+}
+
+.film {
+    font-family: Arial;
+}
+
+h1 {
+    background-color: darkred;
+    padding: 5px;
+    margin: 0;
+    color: white;
+}
+
+h2 {
+    background-color: darkgrey;
+    padding: 5px;
+    margin: 0;
+}
+
+p {
+    background-color: darkgrey;
+    padding: 5px;
+    margin: 0;
+    margin-bottom: 30px;
+}
